@@ -1,0 +1,21 @@
+*{
+    color: antiquewhite;
+}
+th{
+    text-transform:uppercase;
+    background-color: rgb(55, 121, 121);
+}
+table{
+    width: 100%;
+    /* border: 1px solid red; */
+    border-collapse: collapse;
+}
+td{
+    text-transform: capitalize;
+    background-color: rgb(101, 167, 160);
+    text-align: center;
+    border: 1px solid rgb(104, 217, 189);
+    
+}
+
+
